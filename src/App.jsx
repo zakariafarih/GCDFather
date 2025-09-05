@@ -2,6 +2,8 @@ import './App.css'
 import GCDCalculator from './components/GCDCalculator'
 
 function App() {
+  console.log('App component is rendering...')
+  
   return (
     <div className="App">
       <header className="App-header">
